@@ -1,0 +1,27 @@
+.search-button-ylee
+{
+    float: left!important;
+}
+
+
+
+.card-ylee img
+{
+    height: 150px;
+    min-height: 150px;
+    border-radius: 0.8rem;
+}
+
+.card-ylee{
+    height: 200px;
+    border-radius: 0.8rem;
+ 
+}
+
+.card-ylee i {
+    color: aliceblue;
+    margin-left: -12px;
+}
+.card-ylee .eye i{
+    color:#fb9a08;
+}
